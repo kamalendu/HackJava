@@ -1,2 +1,2 @@
 # HackJava
-Hacker rank solution practice
+Hacker rank solution practice for deeper java experience.
